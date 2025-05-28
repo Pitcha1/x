@@ -9,9 +9,12 @@
     width: 100%;
     min-height: 100vh;
     /* background: linear-gradient(135deg,#6699FF,#99CCFF); */
-    background-image: url("img/Noon3.png");
+/*     background-image: url("img/Noon3.png"); */
     background-size: cover;
     padding: 10px;
+}
+body{
+    background-image: url("img/Noon3.png");
 }
 .puffy{
     width: 100%;
